@@ -29,4 +29,4 @@ we have many goals with this platform:
 
 ## Acknowledgements
 
- - [Syrian Open Source](https://github.com/Syrian-Open-Source). Actually, we got inspired to launch this platform for Yemeni developers.
+ - [Syrian Open Source](https://github.com/Syrian-Open-Source). Actually, we got inspired from them to launch this platform for Yemeni developers.
