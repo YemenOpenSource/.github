@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Yemeni-Open-Source/.github/main/profile/YOS.svg" title="Yemeni Open Source 🇪">
+<img src="https://raw.githubusercontent.com/Yemeni-Open-Source/.github/main/profile/YOS-rectangle.svg" title="Yemeni Open Source 🇪">
 
 
 # المصدر المفتوح اليمني 🇾🇪
@@ -6,29 +6,28 @@
  منصة مفتوحة المصدر من المطورين اليمنيين إلى المطورين اليمنيين.
 
 ## المشاركة
- نشجّع مشاركة كل مطور يمني معنا في مبادرتنا هذه. هيا بنا نبادر لتحسين هذا العالم!  
+ نشجّع مشاركة كل مطور يمني معنا بالمبادرة بهذه المنصة، فهيا بنا لنبادر في تحسين هذا العالم! 🚀
 
 ## الدعم
- يمكنك دعما بوسائل عديدة:
- - مشاركة أعمالنا في وسائل التواصل الاجتماعي.
+ دعمك يساهم بتحسين فن البرمجة، لذلك يمكنك دعما بوسائل عديدة:
+ - مشاركة أعمالنا في وسائل التواصل الإجتماعي.
  - مشاركة هذه المنصة مع المطورين اليمنيين.
- - المشاركة بعمل issues أو pull request للمستودعات البرمجية.
+ - المشاركة بعمل Issues أو Pull Requests للمستودعات البرمجية.
 
 ## الأهداف
  لدينا العديد من الأهداف لهذه المنصة:
  - رد الجميل للمجتمع.
- - تشجيع عقلية المبادرة في بناء التقنيات والإنتاج.
- - تحسين جودة الكود البرمجي لدى المبرمجين اليمنيين.
+ - تشجيع روح المبادرة في بناء التقنيات مفتوحة المصدر والأدوات الإنتاجية.
+ - تحسين جودة الشيفرة (code) البرمجية لدى المبرمجين اليمنيين.
  - بناء مجتمع للمطورين اليمنيين عن طريق البرمجيات مفتوحة المصدر.
- حل مشاكلنا التقنية عن طريق البرمجيات مفتوحة المصدر، مثل حل مشاكل اللغة العربية والاتجاه من اليمين إلى اليسار (RTL)، وبوابات الدفع الإلكتروني، وغيرها.
+ - حل مشاكلنا التقنية عن طريق البرمجيات مفتوحة المصدر، مثل حل مشاكل اللغة العربية والاتجاه من اليمين إلى اليسار (RTL)، وبوابات الدفع الإلكتروني، وغيرها.
  - التنوبه بالبرمجيات مفتوحة المصدر الجيدة التي بناها مطورون يمنيون.
  - تعريب المعرفة التقنية بقدر الإمكان.
-
 
 ## شكر وتقدير
 
  
-  - [منصة Syrian Open Source](https://github.com/Syrian-Open-Source). في الحقيقة لقد ألهمنا هذا المشروع بدء منصتنا للمطورين اليمنيين.
+  - في الحقيقة لقد ألهمتنا [منصة Syrian Open Source](https://github.com/Syrian-Open-Source). لبدء منصتنا كي يستفيد منها المطورين اليمنيين.
  
 
 
@@ -42,26 +41,25 @@ We encourage every Yemeni developer to participate with us in this initiative. L
 
 ## Support
 
-You can support us in many ways:
+Your support increases the art of coding, so you can support us in many ways:
 - Sharing our work on social media.
 - Sharing this platform among Yemeni developers.
 - making issues to our repositories or pull requests.
 
 ## Goals
 
-we have many goals with this platform:
+We have many goals with this platform:
 - Give back to the community.
-- Encourage the maker and proactive mindset.
+- Encourage the makers and proactive mindsets.
 - Improve the quality of software that Yemeni developers build.
 - Make a community for Yemeni developers via open source.
 - Solve our tech-related problems with open source, including but not limited to supporting Arabic / RTL issues, facilitating the work of the payment gateways, and so many others.
-- Noting good projects that are built by Yemeni developers.
-- Arabize the tech knowledge as much as we could.
-
+- Announcing good projects that are built by Yemeni developers.
+- Arabazing the tech knowledge as much as we could.
 
 ## Acknowledgements
 
- - [Syrian Open Source](https://github.com/Syrian-Open-Source). Actually, we got inspired from them to launch this platform for Yemeni developers.
+ - Actually, we got inspired from [Syrian Open Source](https://github.com/Syrian-Open-Source) to launch this platform for Yemeni developers.
 
 
 <div dir="rtl" align="justify">
