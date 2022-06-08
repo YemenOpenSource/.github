@@ -1,9 +1,9 @@
-![Yemeni Open Source 🇾][(https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://raw.githubusercontent.com/Yemeni-Open-Source/.github/main/profile/YOS.svg))
-
+<img src="https://raw.githubusercontent.com/Yemeni-Open-Source/.github/main/profile/YOS.svg" title="Yemeni Open Source 🇪">
 
 # Yemeni Open Source 🇾🇪
 
 An open source platform from Yemeni developers to Yemeni developers. 
+
 ## Appendix
 
 We encourage every Yemeni developer to particpate with us in this initiative. Let's take an actiont to make the world a better place.
@@ -12,10 +12,6 @@ We encourage every Yemeni developer to particpate with us in this initiative. Le
 ## Contributing
 
 We encourage every Yemeni developer to particpate with us in this initiative. Let's take an actiont to make the world a better place!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
 ## Support
