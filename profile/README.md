@@ -1,29 +1,33 @@
-<img src="https://raw.githubusercontent.com/Yemeni-Open-Source/.github/main/profile/YOS.svg" title="Yemeni Open Source 🇾🇪" />
-
-## Hi there 👋  
-
-## This is the Yemeni 🇾🇪 Open Source organization in Github
+![Yemeni Open Source 🇾][(https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://raw.githubusercontent.com/Yemeni-Open-Source/.github/main/profile/YOS.svg))
 
 
-### A short introduction - what is your organization all about?
-### Contribution guidelines - how can the community get involved?
-###  Useful resources - where can the community find your docs? Is there anything else the community should know?
-### Fun facts - what does your team eat for breakfast?
+# Yemeni Open Source 🇾🇪
+
+An open source platform from Yemeni developers to Yemeni developers. 
+## Appendix
+
+We encourage every Yemeni developer to particpate with us in this initiative. Let's take an actiont to make the world a better place.
 
 
-## Goals
-- improve Yemeni programmers via practicing  hight qulaity open source software
-- paricpate in softare that are sociary need
+## Contributing
 
-## Values
-TBD
+We encourage every Yemeni developer to particpate with us in this initiative. Let's take an actiont to make the world a better place!
 
+See `contributing.md` for ways to get started.
 
-
+Please adhere to this project's `code of conduct`.
 
 
-### Arabic Readme 
+## Support
+
+You can support us via many ways by:
+- Sharing our work in social media.
+- Sharing this platform among Yemeni developers.
+- making issues to our repos or pull requests.
 
 
+## Acknowledgements
 
-### Similare Organizations links
+ - [Syrian Open Source](https://github.com/Syrian-Open-Source). Actually, we got inspired to launch this platform for Yemeni developers.
+ 
+
