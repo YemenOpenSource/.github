@@ -1,5 +1,7 @@
 ![new-cover](https://user-images.githubusercontent.com/24838274/202918706-04f0c977-3f4e-454b-aa50-613d66646988.jpg)
 
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 
 # المصدر المفتوح اليمني <img src="https://1.bp.blogspot.com/-lEjH9X_Xjtw/W2htPIr-uMI/AAAAAAAAqyI/gl2OoecZsCsVXw8XTlYlP6vgxSr_RJrDgCLcBGAs/s1600/Flag_of_Yemen.gif" alt="cplusplus" width="33" height="23"/>
 
