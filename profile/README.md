@@ -27,9 +27,10 @@
  - تعريب المعرفة التقنية بقدر الإمكان.
 
 ## شكر وتقدير
-
- 
   - في الحقيقة لقد ألهمتنا [منصة Syrian Open Source](https://github.com/Syrian-Open-Source). لبدء منصتنا كي يستفيد منها المطورين اليمنيين.
+
+
+
  
 
 
@@ -60,9 +61,10 @@ We have many goals with this platform:
 - Arabazing the tech knowledge as much as we could.
 
 ## Acknowledgements
-
  - Actually, we got inspired from [Syrian Open Source](https://github.com/Syrian-Open-Source) to launch this platform for Yemeni developers.
 
+## Support this project
+If this project helps you, consider supporting it on [Ko-fi ☕](https://ko-fi.com/watheq_show).
 
 <div dir="rtl" align="justify">
 
