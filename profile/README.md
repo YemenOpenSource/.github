@@ -5,6 +5,8 @@
 
 # المصدر المفتوح اليمني <img src="https://1.bp.blogspot.com/-lEjH9X_Xjtw/W2htPIr-uMI/AAAAAAAAqyI/gl2OoecZsCsVXw8XTlYlP6vgxSr_RJrDgCLcBGAs/s1600/Flag_of_Yemen.gif" alt="cplusplus" width="33" height="23"/>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X23QXTD)
+
  منصة مفتوحة المصدر من المطورين اليمنيين إلى المطورين اليمنيين.
 
 ## المشاركة
